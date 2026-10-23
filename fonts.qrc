@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/chebrium">
+        <file alias="Inter-Regular.otf">../chebrium/assets/fonts/Inter-Regular.otf</file>
+        <file alias="Inter-SemiBold.otf">../chebrium/assets/fonts/Inter-SemiBold.otf</file>
+    </qresource>
+</RCC>
